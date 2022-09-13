@@ -1,0 +1,20 @@
+﻿Reveiwer - Devan Mallory
+Date: 3/11/22
+CSE3902_Project
+File - CollisionDetection.cs 
+File Authors: Everyone
+Time to Complete - 15 minutes
+
+
+
+
+Comments:
+
+	I esstially have the exact same comments for the readability of CollisionDetection.cs, as I do for maintainability of CollisionDetection.cs. The style and flow of the code are all good in terms of readability,
+	and nothing feels very confusing or hard to read. The biggest issue is again just the length - which can be solved by refactoring into seperate functions as explained in my maintanability review. Otherwise,
+	everything looks good!
+
+
+
+
+

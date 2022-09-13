@@ -1,0 +1,17 @@
+﻿Reviewer - Devan Mallory
+Date - 4/11/22
+CSE3902_Project
+File - IsolatedStorageSaveManager
+File Author - Tianle Chen
+Time to Complete - 10 minutes
+
+
+
+Comments:
+	
+	I think for the scope this project is aiming at, the maintanability of this file is very well done. It integrates into
+		SaveManager nicely, and has low coupling and high cohesion. Well done.
+
+
+
+	

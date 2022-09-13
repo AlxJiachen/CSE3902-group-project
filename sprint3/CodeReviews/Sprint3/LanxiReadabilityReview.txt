@@ -1,0 +1,12 @@
+﻿Reviewer - Lanxi Li
+Date - 3/10/22
+CSE3902_Project
+File - CollisionDetection.cs
+File Author - Everyone
+Time to Complete - 15 minutes
+
+Comments
+	- Unnecessary blank lines can be deleted
+		- We also can add blank line to devide each part clearly
+	- Delete the commented statement
+	- Add more helper method can make CollisionDetection.cs more readable. 

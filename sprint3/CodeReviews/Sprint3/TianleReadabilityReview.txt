@@ -1,0 +1,13 @@
+﻿Reviewer - Tianle Chen
+Date - 3/10/22
+CSE3902_Project
+File - Map1.cs
+File Author - Andy Dong Tianle Chen
+Time to Complete - 15 minutes
+
+Comment 
+	- We create lots of objects and lists in this class, and used many foreach look to check through every object we hope to update in the map which is a bit messy I think.
+	Probably we can use some helper functions for the foreach part.
+	- It would be better if we can also put some calculation of bomb explodsion and ninjastar speed into another class or helper functions.
+	- The object "finish" process is a bit confusing sometime when reading.
+	- Delete some unnecessary code and add some comments on it.

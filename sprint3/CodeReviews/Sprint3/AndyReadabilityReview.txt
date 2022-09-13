@@ -1,0 +1,14 @@
+﻿Reviewer - Andy Dong
+Date - 3/7/22
+CSE3902_Project
+File - CollisionDetection.cs
+File Author - Everyone
+Time to Complete - 20 minutes
+
+Comments
+	- Biggest issue: nested for-loops makes it difficult to follow
+		- Clean up nested loops and/or use helper methods to improve readability
+	- High coupling, like the Map1.cs class
+	- Looping variables can be more specific (Ex.) Enemy e -> Enemy enemy)
+	- Some CollisionHandler classes unused
+	- Lots of classes for CollisionHandler (one for each way of collision)

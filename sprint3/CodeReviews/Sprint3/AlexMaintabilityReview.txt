@@ -1,0 +1,14 @@
+﻿Reviewer - Jiachen zhang (Alex)
+Date - 3/11/2022
+CSE3902_Project
+File - Map1.cs
+File Author - Jiachen; Devan; Andy; Tianle; Lanxi
+Time to Complete - 35 minutes
+
+
+Comments
+	-Highly easy to maintain.
+	-Most of code are raw and very clear, if we need to delete or add more feature, it is very easy and directly edit.
+	-We are using as short as possible lines of code to implement the function.
+	-All the indents are good to me.
+	-But this class has really high coupling, maybe we can make the cohesion higher.

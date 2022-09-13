@@ -1,0 +1,11 @@
+﻿Reviewer - Andy Dong
+Date - 4/22/22
+CSE3902_Project
+File - AudioManager.cs
+File Author - Devan
+Time to Complete - 15 minutes
+
+Comments
+	- setPause() method capitalization syntax (SetPause())
+	- good variables/method names
+	- inconsistent spacing in places

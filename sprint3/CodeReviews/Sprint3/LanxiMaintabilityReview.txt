@@ -1,0 +1,13 @@
+﻿Reviewer - Lanxi Li
+Date - 3/10/22
+CSE3902_Project
+File - CollisionDetection.cs
+File Author - Everyone
+Time to Complete - 15 minutes
+
+Comments
+	- Add some helper methods to reduce nested loops
+	- Medium coupling
+	- Good extensibility 
+		- We can add new functionality easily and don't need to fix lots of code we already done. 
+

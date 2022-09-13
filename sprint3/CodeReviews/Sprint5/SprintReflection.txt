@@ -1,0 +1,7 @@
+﻿Sprint 5 Reflection
+
+For sprint 5, the team members each picked out a feature to implement. All together, the team was able to implement a wide breadth of features including a main menu screen with different map and game mode selections,
+a coin spawning system that acts as another win condition (game mode), a cheat code (keyboard command) to make the plyaer invincible, a saving and loading of scores and inventory from and to the game, an event log that keeps track
+game events, a camera system to zoom into the map and follow the winning player around, a random map generator to create a chaotic, fun map, and an explosion rang indicator option to assist players with gameplay. In addition, the team
+improved/added on to previous features, such as displaying more information on the hud, refactoring and creating more game states for the game to be in, and created new maps, NPCs and music. Until the team's presentation, the team
+plans to focus more on refactoring and improving code quality, especially with integrating all the various new features that were implemented this sprint.
